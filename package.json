@@ -1,0 +1,25 @@
+{
+  "name": "xmlayout.js",
+  "version": "3.5.0",
+  "description": "layout html page",
+  "main": "xmlayout.min.js",
+  "scripts": {
+    "test": "xmlayout.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpzsoft/xmlayout.js.git"
+  },
+  "keywords": [
+    "xmlayout"
+  ],
+  "author": "xpzsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpzsoft/xmlayout.js/issues"
+  },
+  "homepage": "https://github.com/xpzsoft/xmlayout.js#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
